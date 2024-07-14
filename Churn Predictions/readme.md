@@ -1,4 +1,5 @@
-# Churn Predictions This project uses machine learning models to predict customer churn. 
+# Churn Predictions 
+This project uses machine learning models to predict customer churn. 
 
 ## Datasets The project uses the following datasets: 
 - **Customer Data**: Contains customer behaviour and other relevant information. 
