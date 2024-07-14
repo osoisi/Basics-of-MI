@@ -1,5 +1,5 @@
 # Churn Predictions 
-This project uses machine learning models to predict customer churn. 
+This project uses machine learning models to predict customer churn for an internet service company.
 
 ## Data Used 
 The project uses the following: 
