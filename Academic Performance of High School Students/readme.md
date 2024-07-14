@@ -20,7 +20,7 @@ The project uses the following methods:
 The project is in progress, and the results will be updated as the analysis progresses.
 
 ## Data Source
-Data source: [Kaggle Link](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset) 
+Data source: [Kaggle Link](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset).
 Data Provided by: Rabie Elkharoua
 
 ## Contact
