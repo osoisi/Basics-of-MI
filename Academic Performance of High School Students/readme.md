@@ -8,7 +8,7 @@ The project uses the following:
 
 ## Analysis
 The project aims to answer the following questions:
-1. Is there a correlation between 'Age', 'Gender', 'Ethnicity', 'ParentalEducation', 'StudyTimeWeekly', 'Absences', 'Tutoring', 'ParentalSupport', 'Extracurricular', 'Sports', 'Music' and 'Volunteering' to a students GPA?
+1. Is there a correlation between 'Age', 'Gender', 'Ethnicity', 'ParentalEducation', 'StudyTimeWeekly', 'Absences', 'Tutoring', 'ParentalSupport', 'Extracurricular', 'Sports', 'Music', 'Volunteering' and a students GPA?
 2. Can they be used to predict unseen high school student data?
 
 ## Methodology
