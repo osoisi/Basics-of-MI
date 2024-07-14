@@ -1,5 +1,5 @@
 # Basics of Machine Learning
-This repository contains various projects related to Machine Intelligence (MI).
+This repository contains various projects related to Machine Learning.
 
 ## Projects
 The repository includes the following projects:
@@ -10,8 +10,3 @@ The repository includes the following projects:
 ## Contributors
 - [osoisi](https://www.twitter.com/osoisi)
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions or feedback, please contact the project team at [email protected].
