@@ -1,4 +1,4 @@
-# Basics of MI
+# Basics of Machine Learning
 This repository contains various projects related to Machine Intelligence (MI).
 
 ## Projects
