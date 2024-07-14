@@ -20,4 +20,4 @@ The project uses the following methods:
 The project is in progress, and the results will be updated as the analysis progresses.
 
 ## Contact
-For any questions or feedback, please get in touch with @osoisi on Twitter.
+For any questions or feedback, please contact [osoisi](https://www.twitter.com/osoisi) on Twitter.
