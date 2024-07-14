@@ -8,7 +8,7 @@ The repository includes the following projects:
 - **Other Projects**: Additional projects related to Machine Intelligence.
 
 ## Contributors
-- Osisi (https://github.com/osoisi)
+- [osoisi](https://www.twitter.com/osoisi)
 
 ## License
 This project is licensed under the MIT License.
